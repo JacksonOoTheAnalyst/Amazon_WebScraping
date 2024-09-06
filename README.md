@@ -20,6 +20,14 @@ Example Amazon website = [Link](https://www.amazon.com/2021-Apple-iPad-Mini-Wi%2
 - Automating Data Collecting//
 - Sending Alert with email//
 
+### Used Modules in Python
+
+from bs4 import BeautifulSoup
+import requests
+import time
+import datetime
+
+import smtplib
 
 
 
