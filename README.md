@@ -1,6 +1,6 @@
 # Amazon_WebScraping
 
-### Project Overiew 
+### Project Overview 
 
 This Project aims to provide the data extracting process from the Amazon website for further purposes. The time manipulation function have been used to automate the data collecting system within the user descripted time interval until the computer turn off/ die. Morover, the data alerting system have been applied upon user descriped parameters by notifing with email which process mostly useful in Foreign Currency Changes, Stock Price Variable on time.
 
